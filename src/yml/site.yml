@@ -19,3 +19,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - title: Privacy
+    url: /privacy
