@@ -20,7 +20,8 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-
+  - title: Privacy
+    url: /privacy
 
 # Social Media Settings
 # Remove the item if you don't need it
